@@ -1,5 +1,5 @@
 {
-    "name": "vdbelt/laravel-revolut",
+    "name": "nxu/laravel-revolut",
     "description": "A Laravel wrapper for the Revolut Business API",
     "type": "library",
     "keywords": [
