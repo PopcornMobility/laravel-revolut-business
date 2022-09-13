@@ -6,9 +6,9 @@
         "laravel", "revolut", "banking", "payments", "payment", "sepa", "wiretransfer"
     ],
     "require": {
-        "php": "^5.5.9 || ^7.0",
-        "illuminate/contracts": "^5.0|^6.0",
-        "illuminate/support": "^5.0|^6.0",
+        "php": "^5.5.9 || ^7.0 || ^8.0",
+        "illuminate/contracts": ">=5.6",
+        "illuminate/support": ">=5.6",
         "sverraest/revolut-php": "^1.1"
     },
     "require-dev": {
