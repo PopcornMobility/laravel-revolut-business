@@ -1,5 +1,5 @@
 {
-    "name": "nxu/laravel-revolut",
+    "name": "popcorn/laravel-revolut-business",
     "description": "A Laravel wrapper for the Revolut Business API",
     "type": "library",
     "keywords": [
